@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin xmlns="http://www.phonegap.com/ns/plugins/1.0" id="cordova-plugin-proguard" version="0.1.0">
+  <name>Cordova Proguard</name>
+  <description>Activated Proguard for Android</description>
+
+  <platform name="android">
+    <framework src="build.gradle" custom="true" type="gradleReference" />
+  </platform>
+
+</plugin>
