@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Activates Proguard and minification for debug and release builds",
   "cordova": {
-    "id": "com.eightz.mobile.cordova.plugin.android.referrer",
+    "id": "cordova-plugin-proguard",
     "platforms": [
       "android"
     ]
